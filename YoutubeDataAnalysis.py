@@ -1,7 +1,7 @@
 from googleapiclient.discovery import build
 
 # Replace with your own API key
-API_KEY = 'AIzaSyAfgs4gWdgqesJypXivaEqMvTOV_sXhb1E'
+API_KEY = 'API_KEY_WILL_PASTED_HERE'
 
 # Function to extract video ID from URL (Simplified)
 def extract_video_id(video_url):
